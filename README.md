@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Leonardo! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Alura 
+  - 🌱 I’m currently studying Data Science and Computer Science at Alura & EBAC
 
   - 🔭 I'm looking for my first job opportunity. My dream is one day to work as a web programmer
 </p>
